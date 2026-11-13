@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SolveEtCoagula.Core/SolveEtCoagula.Core.csproj" />
+    <Project Path="src/SolveEtCoagula.Sim/SolveEtCoagula.Sim.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SolveEtCoagula.Core.Tests/SolveEtCoagula.Core.Tests.csproj" />
+  </Folder>
+</Solution>
